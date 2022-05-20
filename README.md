@@ -4,6 +4,7 @@ BassCloud is a FullStack Next.JS music application.
 
 Technologies Used: 
 next.JS 
+TypeScript
 PostGreSQL 
 Chakra UI 
 
