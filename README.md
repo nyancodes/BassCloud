@@ -6,7 +6,7 @@ Technologies Used:
 
  - next.JS
  - TypeScript
- - PostGreSQL
+ - PostgreSQL
  - Chakra UI
  
 ....will be deployed with Vercel!
